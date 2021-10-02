@@ -1,0 +1,5 @@
+tensorflow
+imutils
+flask
+imutils
+opencv-contrib-python
